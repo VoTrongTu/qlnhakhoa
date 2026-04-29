@@ -1,0 +1,15 @@
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\bin\Release\Bai5_71_Tu.exe.config
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\bin\Release\Bai5_71_Tu.exe
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\bin\Release\Bai5_71_Tu.pdb
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\QLNhaKhoa_71_Tu.csproj.AssemblyReference.cache
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\Bai5_71_Tu.FrmChinh_71_Tu.resources
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\Bai5_71_Tu.FrmDanhSach_71_Tu.resources
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\Bai5_71_Tu.FrmDatLich_71_Tu.resources
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\Bai5_71_Tu.FrmHieuChinh_71_Tu.resources
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\Bai5_71_Tu.FrmTinhTien_71_Tu.resources
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\Bai5_71_Tu.Properties.Resources.resources
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\QLNhaKhoa_71_Tu.csproj.GenerateResource.cache
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\QLNhaKhoa_71_Tu.csproj.CoreCompileInputs.cache
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\Bai5_71_Tu.exe
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\Bai5_71_Tu.pdb
+D:\HK2_252\ON_tap_LTGD\71_Tu_N1_QuanLyNhaKhoa\QLNhaKhoa_71_Tu\Bai5_71_Tu\obj\Release\Bai5_71_Tu.exe.config

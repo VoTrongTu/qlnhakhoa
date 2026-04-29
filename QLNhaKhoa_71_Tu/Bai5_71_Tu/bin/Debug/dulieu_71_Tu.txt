@@ -1,0 +1,12 @@
+﻿Tên khách hàng: A
+Ca khám: Ca1 (7h30 - 10h30)
+Ngày khám: 25/4/2026
+Thành tiền: $1,500,000
+Dịch vụ:  'Cạo voi' 'tẩy trắng' 'Chụp hình răng'
+-
+Tên khách hàng: A
+Ca khám: Ca1 (7h30 - 10h30)
+Ngày khám: 25/4/2026
+Thành tiền: $540,000
+Dịch vụ:  'Cạo voi' 'Chụp hình răng' 'trám răng'
+-

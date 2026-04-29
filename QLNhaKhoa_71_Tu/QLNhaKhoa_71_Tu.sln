@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLNhaKhoa_71_Tu", "Bai5_71_Tu\QLNhaKhoa_71_Tu.csproj", "{943AA2CE-38F9-4EE6-B8D9-DE9983CE643A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_71_Tu", "Setup_71_Tu\Setup_71_Tu.vdproj", "{A81192B2-9748-9E3E-53B0-6C668E771E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{943AA2CE-38F9-4EE6-B8D9-DE9983CE643A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943AA2CE-38F9-4EE6-B8D9-DE9983CE643A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943AA2CE-38F9-4EE6-B8D9-DE9983CE643A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943AA2CE-38F9-4EE6-B8D9-DE9983CE643A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81192B2-9748-9E3E-53B0-6C668E771E9E}.Debug|Any CPU.ActiveCfg = Debug
+		{A81192B2-9748-9E3E-53B0-6C668E771E9E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A21ADB2-E102-4426-BDE7-CC5716CD5F7E}
+	EndGlobalSection
+EndGlobal
